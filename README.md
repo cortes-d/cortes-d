@@ -1,5 +1,3 @@
-# Selection
-
 | Project | Description | Technical Focus |
 | :--- | :--- | :--- |
 | [**fdf**](https://github.com/cortes-d/42-fdf) | 3D Wireframe map visualizer | `C` `MiniLibX` `Graphics` |
